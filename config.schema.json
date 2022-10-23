@@ -1,12 +1,12 @@
 {
-  "pluginAlias": "ExampleHomebridgePlugin",
-  "pluginType": "platform",
+  "pluginAlias": "HomebridgeEspContactSensor",
+  "pluginType": "accessory",
   "singular": true,
   "schema": {
     "type": "object",
     "properties": {
       "name": {
-        "title": "Name",
+        "title": "Homebridge Esp Contact Sensor",
         "type": "string",
         "required": true,
         "default": "Example Dynamic Platform"

@@ -3,6 +3,7 @@ dist
 
 # ------------- Defaults ------------- #
 
+.idea
 # Logs
 logs
 *.log
